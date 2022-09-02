@@ -1,6 +1,8 @@
-### Schedule
+## Schedule
 
-Online schedule: https://yaleedu-my.sharepoint.com/:w:/g/personal/rex_ying_yale_edu/EUYNFJYFD9NNpFOjBnCSOywBo3hZMdhjSZbaRUUKFkMIDQ?e=TafKia
+Online schedule: 
+
+https://yaleedu-my.sharepoint.com/:w:/g/personal/rex_ying_yale_edu/EUYNFJYFD9NNpFOjBnCSOywBo3hZMdhjSZbaRUUKFkMIDQ?e=TafKia
 
 | Date       | Topic      | Speaker       |
 | ---------- | ---------- | ------------- |
